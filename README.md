@@ -9,5 +9,6 @@ Also called `Home Away from Home`, this was a submission for the 2018 Global Gam
 Natalie Mesnard - Game Development and Design  
 Patrick Watson - Game Development and Design  
 Oliver - Game Development, Audio Development, and Design  
+Geneva Pierre-Jerome - Character Development and Art  
 Journey - Character Development and Writing  
 Jeff Arn - Programming  
