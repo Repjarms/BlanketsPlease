@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Character__scripting__manager.unity
+    guid: 26777a5ee44cedd4aa6150f919bca56d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 4798ef83bf1a2ed4f9d8ad6324269f60
+  - enabled: 1
+    path: Assets/Scenes/Character__scripting_design.unity
+    guid: c57030530b7400f469d4971da5517d44
+  - enabled: 1
+    path: Assets/Scenes/Character__scripting_design__jeff_final.unity
+    guid: 373bc54a3cd58614497c2726dde2c232
+  - enabled: 1
+    path: Assets/Scenes/Hallway_Obsidian_Damien.unity
+    guid: b1d62eeb5d7aea84893090fea29e6f24
+  - enabled: 1
+    path: Assets/Scenes/Hallway_Obsidian_ADDAM.unity
+    guid: ba00e7b9744c1e94fa445c91af99b350
+  - enabled: 1
+    path: Assets/Scenes/Hallway_ADDAM_Wilbur.unity
+    guid: f10f2691412e0d44dbc7126aa5c97e75
+  - enabled: 1
+    path: Assets/Scenes/Hallway_BooBoo_ADDAM.unity
+    guid: eada74a63d81c394ab0c166aba89a48b
+  - enabled: 1
+    path: Assets/Scenes/Hallway_Damien_ADDAM.unity
+    guid: f58341ee1cae65041944068d8cdd75f1
+  - enabled: 1
+    path: Assets/Scenes/Hallway_Damien_Inky.unity
+    guid: fcb615a99a4ab5646ad4d6d25b10faf1
+  - enabled: 1
+    path: Assets/Scenes/Hallway_Inky_BooBoo.unity
+    guid: 85bec97529995d449821d236e9ee9497
+  - enabled: 1
+    path: Assets/Scenes/Hallway_Inky_Wilbur.unity
+    guid: ffce2c368b20da94298229901b95f3c6
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 183f3411f9c91044898d0cd22ea0fd58
+  - enabled: 1
+    path: Assets/Scenes/Hallway_Obsidian_Wilbur.unity
+    guid: fc55be9d64b3843438b818c8d2891b04
+  - enabled: 1
+    path: Assets/Scenes/Hallway_BooBoo_Wilbur.unity
+    guid: 8eb9583d03b5c8d45933241ee65e0508
+  m_configObjects: {}
